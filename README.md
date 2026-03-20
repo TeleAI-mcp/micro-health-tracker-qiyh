@@ -1,2 +1,3 @@
-# micro-health-tracker-qiyh
-Automated issue comment bot repository
+# Micro Health Tracker Qiyh
+
+Automated issue comment bot repository.
